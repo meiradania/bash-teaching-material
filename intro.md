@@ -6,7 +6,7 @@ Read on to learn how to create, inspect, move, copy, delete and search for files
 The first thing you see on the window when starting the terminal is a dollar sign (**$**). This is called the **prompt**. 
 It lets you know that the terminal is ready for you to type in a command.
 
-The commands follow a similar snytax structure. Note that simple commands don't require options nor arguments:
+The commands follow a similar syntax structure. Note that simple commands don't require options nor arguments:
 ```
 [command] [options] [arguments]
 ```
@@ -56,6 +56,7 @@ Options:
 
 What is the folder structure deeper in the file system?
 ```bash
+#  sudo apt-get install tree 
 $ tree
 ```
 ```
