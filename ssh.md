@@ -19,3 +19,7 @@ $ ssh -i ~/.ssh/key.pem -tt ubuntu@ec2-54-93-188-105.eu-central-1.compute.amazon
 ```bash
 $ ssh -N -L localhost:8888:localhost:8888 <remote_user>@<remote_host>
 ```
+
+More details: 
+* [Running a Jupyter notebook from a remote server](https://ljvmiranda921.github.io/notebook/2018/01/31/running-a-jupyter-notebook/)
+* [5 Ways to Keep Remote SSH Sessions and Processes Running After Disconnection](https://www.tecmint.com/keep-remote-ssh-sessions-running-after-disconnection/)
