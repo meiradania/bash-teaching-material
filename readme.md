@@ -1,6 +1,11 @@
 # Bash Teaching Resources
 This is my repository with teaching material for the bash and command line course for [Data Science Retreat](https://datascienceretreat.com).
 
+Original content developed and maintained by Dania Meira - [meira.dania@gmail.com](mailto:meira.dania@gmail.com) 
+
+Distributed under the [MIT license](LICENSE.md).
+
+
 ## Table of Contents
  1. [Intro to command line](intro.md)
  2. [Working with data](working-with-data.md)
@@ -16,6 +21,4 @@ The material in this repo is derived from or largely inspired by:
   - [Data Science at the Command Line](https://www.datascienceatthecommandline.com/index.html): Hands-on guide discussing over 80 command-line tools
 	  - For a shorter version, check out [7 Command-Line Tools for Data Science](https://www.datascienceworkshops.com/blog/seven-command-line-tools-for-data-science/) from the same author
 
-Original content developed and maintained by Dania Meira - meira.dania@gmail.com
 
-Distributed under the [MIT license](LICENSE.md).
